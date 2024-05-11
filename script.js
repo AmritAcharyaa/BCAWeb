@@ -167,10 +167,10 @@ let arrPhrase=["IT indicate Emphasis",
                imageOutput.src="images/kbd_output.png"
            }else if(i==7){
             imageExample.src="images/var.png"
-            imageOutput.src="images/var.png"
+            imageOutput.src="images/var_output.png"
          }else if(i==8){
             imageExample.src="images/abbr.png"
-            imageOutput.src="images/abbr.png"
+            imageOutput.src="images/abbr_output.png"
         }else if(i==9){
             imageExample.src="images/acronym.png"
             imageOutput.src="images/acronym.png"
