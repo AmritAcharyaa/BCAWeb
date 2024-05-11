@@ -84,27 +84,27 @@ for(let i=0;i<aElements.length;i++){
         imageOutput.style.display="block"
         actual_content[0].style.display="flex"
         if(i==0){
-         imageExample.src="/images/bold.png"
-         imageOutput.src="/images/bold_output.png"
+         imageExample.src="images/bold.png"
+         imageOutput.src="images/bold_output.png"
         }else if(i==1){
            
-            imageExample.src="/images/italic.png"
-            imageOutput.src="/images/italic_output.png"
+            imageExample.src="images/italic.png"
+            imageOutput.src="images/italic_output.png"
         }else if(i==2){
-            imageExample.src="/images/underline.png"
-            imageOutput.src="/images/underline_output.png"
+            imageExample.src="images/underline.png"
+            imageOutput.src="images/underline_output.png"
         }else if(i==3){
-            imageExample.src="/images/superscript.png"
-            imageOutput.src="/images/superscript_output.png"
+            imageExample.src="images/superscript.png"
+            imageOutput.src="images/superscript_output.png"
         }else if(i==4){
-            imageExample.src="/images/subscript.png"
-            imageOutput.src="/images/subscript_output.png"
+            imageExample.src="images/subscript.png"
+            imageOutput.src="images/subscript_output.png"
         }else if(i==5){
-            imageExample.src="/images/strike.png"
-            imageOutput.src="/images/strike_output.png"
+            imageExample.src="images/strike.png"
+            imageOutput.src="images/strike_output.png"
         }else if(i==6){
-            imageExample.src="/images/mark.png"
-            imageOutput.src="/images/mark_output.png"
+            imageExample.src="images/mark.png"
+            imageOutput.src="images/mark_output.png"
         }
 
         btn_output.style.display="block"
@@ -144,39 +144,39 @@ let arrPhrase=["IT indicate Emphasis",
         imageOutput.style.display="block"
         actual_content[0].style.display="flex"
         if(i==0){
-            imageExample.src="/images/em.png"
-            imageOutput.src="/images/em_output.png"
+            imageExample.src="images/em.png"
+            imageOutput.src="images/em_output.png"
            }else if(i==1){
               
-               imageExample.src="/images/strong.png"
-               imageOutput.src="/images/strong_output.png"
+               imageExample.src="images/strong.png"
+               imageOutput.src="images/strong_output.png"
            }else if(i==2){
-               imageExample.src="/images/cite.png"
-               imageOutput.src="/images/cite_output.png"
+               imageExample.src="images/cite.png"
+               imageOutput.src="images/cite_output.png"
            }else if(i==3){
-               imageExample.src="/images/dfn.png"
-               imageOutput.src="/images/dfn_output.png"
+               imageExample.src="images/dfn.png"
+               imageOutput.src="images/dfn_output.png"
            }else if(i==4){
-               imageExample.src="/images/code.png"
-               imageOutput.src="/images/code_output.png"
+               imageExample.src="images/code.png"
+               imageOutput.src="images/code_output.png"
            }else if(i==5){
-               imageExample.src="/images/samp.png"
-               imageOutput.src="/images/samp_output.png"
+               imageExample.src="images/samp.png"
+               imageOutput.src="images/samp_output.png"
            }else if(i==6){
-               imageExample.src="/images/kbd.png"
-               imageOutput.src="/images/kbd_output.png"
+               imageExample.src="images/kbd.png"
+               imageOutput.src="images/kbd_output.png"
            }else if(i==7){
-            imageExample.src="/images/var.png"
-            imageOutput.src="/images/var.png"
+            imageExample.src="images/var.png"
+            imageOutput.src="images/var.png"
          }else if(i==8){
-            imageExample.src="/images/abbr.png"
-            imageOutput.src="/images/abbr.png"
+            imageExample.src="images/abbr.png"
+            imageOutput.src="images/abbr.png"
         }else if(i==9){
-            imageExample.src="/images/acronym.png"
-            imageOutput.src="/images/acronym.png"
+            imageExample.src="images/acronym.png"
+            imageOutput.src="images/acronym.png"
         }else if(i==10){
-            imageExample.src="/images/span.png"
-            imageOutput.src="/images/span_output.png"
+            imageExample.src="images/span.png"
+            imageOutput.src="images/span_output.png"
         }
 
         btn_output.style.display="block"
